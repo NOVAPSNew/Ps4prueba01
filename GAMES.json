@@ -1,6 +1,6 @@
 {
   "DATA": {
-    "http://archive.org/download/ps4-fpkg-collection-english-a/A%20Hat%20in%20Time%20-%20[US]%20[EN]%20[1.04].pkg": {
+    "http://192.168.100.192:8080/juego.pkg": {
       "title_id": "CUSA09267",
       "region": "USA",
       "name": "A Hat in Time",
